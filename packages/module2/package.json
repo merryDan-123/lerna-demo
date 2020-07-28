@@ -1,0 +1,25 @@
+{
+  "name": "module2",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "gaodan <gaodan@baijiahulian.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/module2.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "eslint": "^7.5.0"
+  }
+}
