@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "cross-env": "^7.0.2",
+    "eslint": "^7.5.0",
     "gd-lerna-child2": "^0.0.2"
   }
 }
