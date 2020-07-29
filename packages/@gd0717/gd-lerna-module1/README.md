@@ -1,11 +1,11 @@
-# `lerna-module1`
+# `gd-lerna-module1`
 
 > TODO: description
 
 ## Usage
 
 ```
-const lernaModule1 = require('lerna-module1');
+const gdLernaModule1 = require('gd-lerna-module1');
 
 // TODO: DEMONSTRATE API
 ```
