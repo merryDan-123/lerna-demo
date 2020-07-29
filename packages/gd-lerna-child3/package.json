@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/merryDan-123/lerna-demo#readme",
   "dependencies": {
-    "eslint": "^7.5.0"
+    "eslint": "^7.5.0",
+    "webpack": "^4.44.0"
   }
 }
