@@ -1,6 +1,7 @@
 {
   "packages": [
-    "packages/*"
+    "packages/*",
+    "packages/@gd0717/*"
   ],
   "version": "0.0.2"
 }
