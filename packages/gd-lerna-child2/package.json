@@ -26,5 +26,6 @@
   "homepage": "https://github.com/merryDan-123/lerna-demo#readme",
   "dependencies": {
     "cross-env": "^7.0.2"
-  }
+  },
+  "gitHead": "7c45ebfd0ecc5de7ef07f036770d4ce98a88adfe"
 }
