@@ -1,6 +1,6 @@
 {
   "name": "gd-lerna-child1",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "> TODO: description",
   "author": "gaodan <gaodan@baijiahulian.com>",
   "homepage": "https://github.com/merryDan-123/lerna-demo#readme",
@@ -26,7 +26,7 @@
   "dependencies": {
     "cross-env": "^7.0.2",
     "eslint": "^7.5.0",
-    "gd-lerna-child2": "^0.0.4"
+    "gd-lerna-child2": "^0.0.5"
   },
   "gitHead": "7c45ebfd0ecc5de7ef07f036770d4ce98a88adfe"
 }
